@@ -1,0 +1,7 @@
+[package]
+name = "rust_by_examples"
+version = "0.1.0"
+authors = ["Allen Ning <npc1222@icloud.com>"]
+edition = "2018"
+
+[dependencies]
